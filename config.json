@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "natashayeager39@gmail.com",
-    "password": "Natashayeager@",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -24,7 +24,7 @@
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "100083613360627"
+      "100077574823486"
     ],
     "notes": "Only users in this list can use the bot when enabled."
   },
